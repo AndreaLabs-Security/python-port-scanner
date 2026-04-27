@@ -1,11 +1,10 @@
 # Python Port Scanner 🔍
 
 ## Descrizione
-Questo progetto è un **port scanner TCP multithread** sviluppato in Python.
+Questo progetto è un **Network Port Scanner** efficiente sviluppato in Python. Il tool scansiona il range di porte standard (1–1024) su un indirizzo IP o dominio target per identificare le porte aperte e tentare di recuperare il "banner" (informazione identificativa) del servizio in esecuzione.
 
-Il tool permette di analizzare le porte aperte di un host remoto e identificare i servizi in ascolto. È ispirato al funzionamento di strumenti come :contentReference[oaicite:1]{index=1} ed è stato sviluppato per scopi didattici.
-
-Il progetto è stato testato su ambiente virtuale :contentReference[oaicite:2]{index=2}.
+L'efficienza è garantita dall'uso del **multithreading**, che permette di scansionare centinaia di porte simultaneamente, riducendo drasticamente i tempi di attesa.
+Il progetto è stato testato su ambiente virtuale Metasploitable
 
 
 ## Funzionalità
