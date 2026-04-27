@@ -14,8 +14,5 @@ Tool sviluppato in Python per la scansione di porte TCP utilizzando multithreadi
 - Threading
 
 ## Utilizzo
-```bash id="r2"
+```bash 
 python scanner.py
-
-## Note
-Questo progetto è stato realizzato a scopo educativo e testato solo in ambienti controllati.
