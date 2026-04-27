@@ -26,4 +26,4 @@ scan python.py
 
 Esempio di esecuzione del tool:
 
-![Port Scanner Screenshot](Screenshot.png)
+![Port Scanner Screenshot](Screenshot1.png)
