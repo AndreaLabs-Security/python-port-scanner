@@ -15,7 +15,8 @@ Tool sviluppato in Python per la scansione di porte TCP utilizzando multithreadi
 
 ## Utilizzo
 ```bash 
-scan python.py```
+scan python.py
+```
 
 ## Screenshot
 
